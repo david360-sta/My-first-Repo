@@ -1,6 +1,7 @@
 # My-first-Repo
 I am a David College student, PC addict, and tech enthusiast.
-
+Hobby: PC build, Gaming, Youtube, Math.
+Lang: Java, Python.
 Email: eather24david@gmail.com
 
 
